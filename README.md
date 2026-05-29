@@ -37,11 +37,7 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/npc-qvq/npc-qvq/master/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/npc-qvq/npc-qvq/master/snake.svg">
-  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/npc-qvq/npc-qvq/master/snake.svg">
-</picture>
+![Snake](https://raw.githubusercontent.com/npc-qvq/npc-qvq/master/snake.svg)
 
 <br>
 
