@@ -37,7 +37,7 @@
 
 <div align="center">
 
-![Snake](https://raw.githubusercontent.com/npc-qvq/npc-qvq/master/github-snake.gif?t=1)
+![Snake](https://raw.githubusercontent.com/npc-qvq/npc-qvq/master/github-snake-dark.svg)
 
 <br>
 
