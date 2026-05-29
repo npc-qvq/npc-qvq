@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */6 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -18,20 +18,20 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate snake GIF
+      - name: Generate snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
-            dist/snake.gif?color_snake=#000000&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.gif?color_snake=black&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
 
       - name: Commit and push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          cp dist/snake.svg dist/snake-dark.svg dist/snake.gif ./
-          git add snake.svg snake-dark.svg snake.gif
+          cp dist/github-snake.svg dist/github-snake-dark.svg dist/github-snake.gif ./
+          git add github-snake.svg github-snake-dark.svg github-snake.gif
           git diff --staged --quiet || git commit -m "update snake"
           git push
