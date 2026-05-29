@@ -42,31 +42,9 @@
 
 </div>
 
----
+<br>
 
 <div align="center">
-
-###  GITHUB STATS
-
-<br>
-
-| | |
-|:-:|:-:|
-| [![Stats](https://github-readme-stats.vercel.app/api?username=npc-qvq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ff69b4&icon_color=06D6A0&text_color=c9d1d9&hide=stars&count_private=true)](https://github.com/npc-qvq) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=npc-qvq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ff69b4&text_color=c9d1d9)](https://github.com/npc-qvq) |
-
-</div>
-
----
-
-<div align="center">
-
-###  FEATURED
-
-<br>
-
-[![ai-agent-demo](https://github-readme-stats.vercel.app/api/pin/?username=npc-qvq&repo=ai-agent-demo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ff69b4&icon_color=06D6A0&text_color=c9d1d9&description_lines_count=2)](https://github.com/npc-qvq/ai-agent-demo)
-
-<br>
 
 <sub>`C:▸ npc-qvq ▸ 0x7F00 ▸ ONLINE`</sub>
 
