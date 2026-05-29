@@ -29,16 +29,7 @@
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-11%2B-ff69b4?style=flat-square&logo=openjdk&logoColor=white&labelColor=1a1a2e&color=ff69b4)
-![Spring](https://img.shields.io/badge/Spring-Boot-6DB33F?style=flat-square&logo=spring&logoColor=white&labelColor=1a1a2e)
-![Maven](https://img.shields.io/badge/Maven-3-ff69b4?style=flat-square&logo=apachemaven&logoColor=white&labelColor=1a1a2e&color=ff69b4)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-V4-06D6A0?style=flat-square&logo=openai&logoColor=white&labelColor=1a1a2e)
-![MySQL](https://img.shields.io/badge/MySQL-8-ff69b4?style=flat-square&logo=mysql&logoColor=white&labelColor=1a1a2e&color=ff69b4)
-![Redis](https://img.shields.io/badge/Redis-7-06D6A0?style=flat-square&logo=redis&logoColor=white&labelColor=1a1a2e)
-![Docker](https://img.shields.io/badge/Docker-24-ff69b4?style=flat-square&logo=docker&logoColor=white&labelColor=1a1a2e&color=ff69b4)
-![Linux](https://img.shields.io/badge/Linux-Ubuntu-06D6A0?style=flat-square&logo=linux&logoColor=white&labelColor=1a1a2e)
-![Git](https://img.shields.io/badge/Git-Flow-ff69b4?style=flat-square&logo=git&logoColor=white&labelColor=1a1a2e&color=ff69b4)
-![IDEA](https://img.shields.io/badge/IDEA-Ultimate-06D6A0?style=flat-square&logo=intellijidea&logoColor=white&labelColor=1a1a2e)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,idea,mysql,redis,docker,linux,git,postman&theme=dark&perline=5)](https://skillicons.dev)
 
 </div>
 
