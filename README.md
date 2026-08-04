@@ -14,17 +14,6 @@
   <img src="https://img.shields.io/badge/Docker-DevOps-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
 </p>
 
----
-
-### About Me
-
-🌱 正在学习 AI Agent、RAG 与 LangChain4j
-💻 主要使用 Java、Spring Boot 和 Spring Cloud
-🛠️ 喜欢研究后端架构、性能优化与服务器运维
-🚀 正在建设自己的知识库和个人网站
-
----
-
 ### Contribution Snake
 
 <img src="https://raw.githubusercontent.com/npc-qvq/npc-qvq/master/github-snake.svg" alt="GitHub Contribution Snake">
